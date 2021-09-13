@@ -9,7 +9,7 @@ import {
   SimpleChanges,
   ViewChild
 } from '@angular/core';
-import { ThemePalette } from '@angular/material/core/typings/common-behaviors/color';
+import { ThemePalette } from '@angular/material/core/common-behaviors/color';
 
 @Component({
   selector: 'katschangular-three-states-toggle',

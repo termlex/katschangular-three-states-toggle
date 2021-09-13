@@ -9,10 +9,10 @@ import { FormsModule } from '@angular/forms';
 import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 import { MatButtonToggleModule } from '@angular/material/button-toggle';
 
-import { KatschangularThreeStatesToggleModule } from 'katschangular-three-states-toggle';
-// import { KatschangularThreeStatesToggleModule }
-// from
-// '../../projects/katschangular-three-states-toggle/src/lib/katschangular-three-states-toggle.module';
+//import { KatschangularThreeStatesToggleModule } from 'katschangular-three-states-toggle';
+import { KatschangularThreeStatesToggleModule }
+from
+'../../projects/katschangular-three-states-toggle/src/lib/katschangular-three-states-toggle.module';
 
 import { AppComponent } from './app.component';
 
